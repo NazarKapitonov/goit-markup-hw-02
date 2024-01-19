@@ -2,11 +2,11 @@ li {
   text-decoration: none;
   list-style: none;
 }
-header {
+.header {
   border-bottom: 1px solid #e7e9fc;
   background: #fff;
 }
-.logo-3 {
+.logo-2 {
   color: #2e2f42;
   font-family: Raleway;
   font-size: 18px;
@@ -34,7 +34,7 @@ header {
   background: #2e2f42;
   height: 600px;
 }
-h1 {
+.h1 {
   color: #fff;
   text-align: center;
   font-family: Roboto;
@@ -103,7 +103,7 @@ h1 {
   text-decoration: none;
   list-style: none;
 }
-footer {
+.footer {
   background: #2e2f42;
 }
 .footer-text {
