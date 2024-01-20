@@ -39,9 +39,9 @@ header {
   letter-spacing: 0.32px;
   text-decoration: none;
 }
-.nav-list__item:first-of-type .header-link:hover,
-.nav-list__item:first-of-type .header-link:focus,
-.nav-list__item:first-of-type .header-link:active {
+.nav-list__item:first-child .header-link:hover,
+.nav-list__item:first-child .header-link:focus,
+.nav-list__item:first-child .header-link:active {
   color: #404bbf;
 }
 .business-section {
