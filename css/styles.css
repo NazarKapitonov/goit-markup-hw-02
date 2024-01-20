@@ -17,7 +17,6 @@ header {
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
   font-size: 18px;
-  font-style: normal;
   font-weight: 700;
   line-height: 21px;
   letter-spacing: 0.54px;
@@ -32,16 +31,15 @@ header {
   color: #2e2f42;
   font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.32px;
   text-decoration: none;
 }
-.nav-list__item:first-of-type:hover .header-link {
+.nav-list__item:first-of-type .header-link:hover {
   color: #404bbf;
 }
-.nav-list__item:first-of-type:active .header-link {
+.nav-list__item:first-of-type .header-link:active {
   color: #404bbf;
 }
 .business-section {
@@ -52,7 +50,6 @@ header {
   text-align: center;
   font-family: Roboto;
   font-size: 56px;
-  font-style: normal;
   font-weight: 700;
   line-height: 60px;
   letter-spacing: 1.12px;
@@ -62,7 +59,6 @@ header {
   color: #fff;
   font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.64px;
@@ -84,7 +80,6 @@ header {
   text-align: center;
   font-family: Roboto;
   font-size: 36px;
-  font-style: normal;
   font-weight: 700;
   line-height: 40px;
   letter-spacing: 0.72px;
@@ -100,7 +95,6 @@ header {
   color: #2e2f42;
   font-family: Roboto;
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.4px;
@@ -128,7 +122,6 @@ header {
   color: #f4f4fd;
   font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
   line-height: 24px;
   letter-spacing: 0.32px;
 }
