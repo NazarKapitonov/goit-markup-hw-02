@@ -1,7 +1,7 @@
 body {
   font-family: Roboto, sans-serif;
   background: #fff;
-  color: #2e2f42;
+  color: #434455;
 }
 li {
   text-decoration: none;
@@ -11,12 +11,11 @@ button {
   cursor: pointer;
 }
 header {
-  border-bottom: 1px solid #e7e9fc;
   background: #fff;
 }
-.logo-2 {
-  color: #2e2f42;
-  font-family: Raleway;
+.logo {
+  color: #4d5ae5;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -24,9 +23,10 @@ header {
   letter-spacing: 0.54px;
   text-transform: uppercase;
   text-decoration: none;
+  line-height: 1.17;
 }
-.logo-1 {
-  color: #4d5ae5;
+.logo-top {
+  color: #2e2f42;
 }
 .header-link {
   color: #2e2f42;
@@ -46,7 +46,6 @@ header {
 }
 .business-section {
   background: #2e2f42;
-  height: 600px;
 }
 .business-section {
   color: #fff;
@@ -59,9 +58,7 @@ header {
   letter-spacing: 1.12px;
 }
 .service {
-  border-radius: 4px;
   background: #4d5ae5;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   color: #fff;
   font-family: Roboto;
   font-size: 16px;
@@ -97,7 +94,6 @@ header {
 .sections {
   border: 1px solid #e7e9fc;
   background: #fff;
-  width: 360px;
   list-style: none;
 }
 .title {
@@ -110,11 +106,7 @@ header {
   letter-spacing: 0.4px;
 }
 .title:hover {
-  border-radius: 0px 0px 4px 4px;
   background: #fff;
-  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
-    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
-    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
   border: 1px solid #e7e9fc;
 }
 .subtitle {
@@ -141,14 +133,6 @@ header {
   line-height: 24px;
   letter-spacing: 0.32px;
 }
-.logo {
+.logo-bottom {
   color: #f4f4fd;
-  font-family: Raleway;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 21px;
-  letter-spacing: 0.54px;
-  text-transform: uppercase;
-  text-decoration: none;
 }
