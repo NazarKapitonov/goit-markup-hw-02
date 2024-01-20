@@ -40,11 +40,8 @@ header {
   text-decoration: none;
 }
 .nav-list__item:first-of-type .header-link:hover,
-.nav-list__item:first-of-type .header-link:focus {
-  color: #404bbf;
-}
-.nav-list__item:first-of-type .header-link:active,
-.nav-list__item:first-of-type .header-link:focus {
+.nav-list__item:first-of-type .header-link:focus,
+.nav-list__item:first-of-type .header-link:active {
   color: #404bbf;
 }
 .business-section {
@@ -62,7 +59,7 @@ header {
 .service {
   background: #4d5ae5;
   color: #fff;
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
