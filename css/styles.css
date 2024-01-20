@@ -46,6 +46,10 @@ header {
 }
 .business-section {
   background: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .business {
   color: #fff;
@@ -57,7 +61,6 @@ header {
   letter-spacing: 1.12px;
   line-height: 1.07;
 }
-.business:hover,
 .business:focus {
   background-color: #404bbf;
 }
@@ -75,10 +78,6 @@ header {
 }
 .studio-section {
   background: #fff;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .team-section {
