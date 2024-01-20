@@ -1,6 +1,14 @@
+body {
+  font-family: Roboto, sans-serif;
+  background: #fff;
+  color: #2e2f42;
+}
 li {
   text-decoration: none;
   list-style: none;
+}
+button {
+  cursor: pointer;
 }
 .header {
   border-bottom: 1px solid #e7e9fc;
@@ -30,11 +38,17 @@ li {
   letter-spacing: 0.32px;
   text-decoration: none;
 }
+.header-link:hover {
+  color: #404bbf;
+}
+.header-link:active {
+  color: #404bbf;
+}
 .business-section {
   background: #2e2f42;
   height: 600px;
 }
-.business-title {
+.business-section {
   color: #fff;
   text-align: center;
   font-family: Roboto;
@@ -55,6 +69,9 @@ li {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.64px;
+}
+.service:hover {
+  background: #404bbf;
 }
 .studio-section {
   background: #fff;
@@ -92,16 +109,26 @@ li {
   line-height: 24px;
   letter-spacing: 0.4px;
 }
+.title:hover {
+  border-radius: 0px 0px 4px 4px;
+  background: #fff;
+  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
+    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+  border: 1px solid #e7e9fc;
+}
 .subtitle {
   color: #434455;
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
-  font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
   text-decoration: none;
   list-style: none;
+}
+.subtitle:hover {
+  color: #404bbf;
 }
 .footer {
   background: #2e2f42;
@@ -111,7 +138,6 @@ li {
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
-  font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
 }
