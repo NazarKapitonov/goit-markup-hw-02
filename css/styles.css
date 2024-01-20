@@ -51,11 +51,10 @@ header {
   color: #fff;
   text-align: center;
   font-family: Roboto;
-  font-size: 56px;
+  font-size: 36px;
   font-weight: 700;
   line-height: 60px;
   letter-spacing: 1.12px;
-  line-height: 1.07;
 }
 .service {
   background: #4d5ae5;
