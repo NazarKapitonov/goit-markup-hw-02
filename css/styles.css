@@ -47,11 +47,11 @@ header {
 .business-section {
   background: #2e2f42;
 }
-.business-section {
+.business {
   color: #fff;
   text-align: center;
   font-family: Roboto;
-  font-size: 36px;
+  font-size: 56px;
   font-weight: 700;
   line-height: 60px;
   letter-spacing: 1.12px;
