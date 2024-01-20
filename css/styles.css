@@ -55,6 +55,11 @@ header {
   font-weight: 700;
   line-height: 60px;
   letter-spacing: 1.12px;
+  line-height: 1.07;
+}
+.business:hover,
+.business:focus {
+  background-color: #404bbf;
 }
 .service {
   background: #4d5ae5;
