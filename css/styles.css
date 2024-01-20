@@ -73,13 +73,13 @@ header {
 .studio-section {
   background: #fff;
   color: #2e2f42;
-}
-.team-section {
-  background: #f4f4fd;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+}
+.team-section {
+  background: #f4f4fd;
 }
 .portfolio-section {
   background: #ffffff;
