@@ -1,6 +1,6 @@
 body {
   font-family: Roboto, sans-serif;
-  background: #fff;
+  background-color: #fff;
   color: #434455;
 }
 li {
@@ -11,7 +11,7 @@ button {
   cursor: pointer;
 }
 header {
-  background: #fff;
+  background-color: #fff;
 }
 .header-address {
   font-style: normal;
@@ -45,7 +45,7 @@ header {
   color: #404bbf;
 }
 .business-section {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 .business {
   color: #fff;
@@ -58,7 +58,7 @@ header {
   line-height: 1.07;
 }
 .service {
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   color: #fff;
   font-family: Roboto, sans-serif;
   font-size: 16px;
@@ -68,17 +68,17 @@ header {
 }
 .service:hover,
 .service:focus {
-  background: #404bbf;
+  background-color: #404bbf;
 }
 .studio-section {
-  background: #fff;
+  background-color: #ffffff;
   color: #2e2f42;
 }
 .team-section {
-  background: #f4f4fd;
+  background-color: #f4f4fd;
 }
 .portfolio-section {
-  background: #ffffff;
+  background-color: #ffffff;
 }
 .section-title {
   color: #2e2f42;
@@ -104,7 +104,7 @@ header {
   letter-spacing: 0.4px;
 }
 .title:hover {
-  background: #fff;
+  background-color: #fff;
   border: 1px solid #e7e9fc;
 }
 .subtitle {
@@ -120,7 +120,7 @@ header {
   color: #404bbf;
 }
 .footer {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 .footer-text {
   color: #f4f4fd;
