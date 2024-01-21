@@ -40,8 +40,7 @@ header {
   text-decoration: none;
 }
 .nav-list__item:first-child .header-link:hover,
-.nav-list__item:first-child .header-link:focus,
-.nav-list__item:first-child .header-link:active {
+.nav-list__item:first-child .header-link:focus {
   color: #404bbf;
 }
 .business-section {
