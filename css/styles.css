@@ -96,12 +96,11 @@ header {
   list-style: none;
 }
 .title {
-  color: #2e2f42;
   font-family: Roboto;
-  font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.4px;
 }
 .title:hover {
   background: #fff;
