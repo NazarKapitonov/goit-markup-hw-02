@@ -118,7 +118,8 @@ header {
   text-decoration: none;
   list-style: none;
 }
-.subtitle:hover {
+.subtitle:hover,
+.subtitle:focus {
   color: #404bbf;
 }
 .footer {
