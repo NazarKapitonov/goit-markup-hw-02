@@ -39,8 +39,10 @@ header {
   letter-spacing: 0.32px;
   text-decoration: none;
 }
-.nav-list__item:first-child .header-link:hover,
-.nav-list__item:first-child .header-link:focus {
+.nav-list__item:hover {
+  color: #404bbf;
+}
+.nav-list__item:focus {
   color: #404bbf;
 }
 .business-section {
