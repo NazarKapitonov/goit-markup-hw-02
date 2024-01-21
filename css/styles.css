@@ -40,6 +40,7 @@ header {
   text-decoration: none;
 }
 .nav-list__item:first-child .header-link:hover,
+.nav-list__item:first-child .header-link:focus,
 .nav-list__item:first-child .header-link:active {
   color: #404bbf;
 }
